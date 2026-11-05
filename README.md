@@ -11,6 +11,6 @@ My notes from working through [OverTheWire Bandit](https://overthewire.org/warga
 ## Progress
 | Levels | Status | Main concepts |
 |--------|--------|---------------|
-| 0-10   | In progress | |
+| 0-13   | Done.  | 
 
 > No spoilers: this repo has no passwords or full solutions, just what I learned.
